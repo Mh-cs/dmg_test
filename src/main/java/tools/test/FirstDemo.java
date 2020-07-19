@@ -7,5 +7,7 @@ public class FirstDemo {
         System.out.println("什么鬼");
         System.out.println("什么鬼");
         System.out.println("什么鬼");
+        System.out.println("你猜我是谁");
+        System.out.println("你猜我是谁");
     }
 }
