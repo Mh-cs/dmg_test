@@ -7,5 +7,10 @@ public class FirstDemo {
         System.out.println("什么鬼");
         System.out.println("什么鬼");
         System.out.println("什么鬼");
+        System.out.println("什么鬼");
+        System.out.println("什么鬼");
+        System.out.println("什么鬼");
+        System.out.println("什么鬼");
+        System.out.println("什么鬼");
     }
 }
